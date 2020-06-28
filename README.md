@@ -1,4 +1,4 @@
-# testing-starter-c#
+# testing-starter-c-sharp
 Minimal C# project setup for unit testing. Includes the following Nuget packages:
 
 - NUnit: Test runner
